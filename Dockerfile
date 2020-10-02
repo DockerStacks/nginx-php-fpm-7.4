@@ -1,6 +1,5 @@
 FROM php:7.4.11-fpm-alpine3.11
 
-LABEL maintainer="Naba Das <ndas13021@gmail.com>"
 
 ENV php_conf /usr/local/etc/php-fpm.conf
 ENV fpm_conf /usr/local/etc/php-fpm.d/www.conf
