@@ -1,4 +1,4 @@
-FROM php:7.4.5-fpm-alpine3.11
+FROM php:7.4.11-fpm-alpine3.11
 
 LABEL maintainer="Naba Das <ndas13021@gmail.com>"
 
